@@ -26,8 +26,7 @@ A preview of the dashboard is available as a PDF in this repository:
 - Understood basic HR metrics and how to represent them visually
 - Improved dashboard layout and presentation skills
 
-## Note
-This is a *practice project* created for learning and skill development purposes.
+
 
 ## Note
 This is a *beginner / practice project* created for learning and skill development purposes.
